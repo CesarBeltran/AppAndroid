@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 
+#define var = 0
 int main()
 {
         printf("Hola mundo");
